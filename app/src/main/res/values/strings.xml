@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Loan Calculator by Seaim Khan</string>
+    <string name="txtLoanCalc">Loan Calculator</string>
+    <string name="txtLoanAmount">Loan Amount:</string>
+    <string name="txtLoanTerm">Term of Loan (years):</string>
+    <string name="txtInterestRate">Yearly Interest Rate:</string>
+    <string name="txtCalc">Calculate</string>
+    <string name="txtClear">Clear</string>
+    <string name="txtResults">Results</string>
+    <string name="txtMonthlyPayment">Monthly Payment:</string>
+    <string name="txtTotalPayment">Total Payment:</string>
+    <string name="txtTotalInterest">Total Interest:</string>
+</resources>
